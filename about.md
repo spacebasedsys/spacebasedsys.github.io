@@ -22,7 +22,7 @@ Our primary focus is in researching large scale and large impact space systems f
 <div id="mc_embed_signup">
 <form action="https://github.us4.list-manage.com/subscribe/post?u=ea6b62b3711f0a0061c70b82a&amp;id=66e0ab6a8f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe</label>
+	<label for="mce-EMAIL">Subscribe to our Mailing List</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ea6b62b3711f0a0061c70b82a_66e0ab6a8f" tabindex="-1" value=""></div>
